@@ -1,5 +1,4 @@
 # Koirapuisto-sovellus
-***
 
 #### Koirapuisto-sovellus näyttää tietyn alueen koirapuistot, sekä tietoa niistä. Puistoille voi lisätä arvosteluita sekä lisätietoja. 
 
