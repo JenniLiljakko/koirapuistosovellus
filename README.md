@@ -3,7 +3,7 @@
 
 #### Koirapuisto-sovellus näyttää tietyn alueen koirapuistot, sekä tietoa niistä. Puistoille voi lisätä arvosteluita sekä lisätietoja. 
 
-# Sovelluksen toimintoja ovat:
+##### Sovelluksen toimintoja ovat:
 
 ###### * Käyttäjä voi kirjautua sisään ja ulos, sekä luoda uuden tunnuksen.
 ###### * Käyttäjä näkee koirapuistot kartalla ja voi painaa puistoa, jolloin siitä näytetään lisää tietoa (kuten kuvaus ja arvostelut).
